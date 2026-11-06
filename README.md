@@ -9,13 +9,13 @@ render-and-review tool and an award-level bar.
 
 В Claude Code / In Claude Code:
 ```
-/plugin marketplace add whoamnesia/astudio-motion
+/plugin marketplace add whoamnesia/motion-3d
 /plugin install astudio-motion@astudio-motion
 ```
 Перезапустите Claude Code (restart Claude Code). Обновление / update: `/plugin marketplace update astudio-motion`.
 
 Скиллы появятся в меню `/` как `astudio-motion:astudio-motion`, `astudio-motion:threejs` и т. д. Пара к дизайн-плагину
-[astudio-aio](https://github.com/whoamnesia/astudio-aio): его можно поставить рядом, конфликтов нет.
+[astudio-aio](https://github.com/whoamnesia/site-design): его можно поставить рядом, конфликтов нет.
 
 ## Установка (локально, без GitHub)
 
